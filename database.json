@@ -1,5 +1,8 @@
 {
-  "hello.txt": {
+  "hello": {
     "path": "files/hello.txt"
+  },
+    "spaceship": {
+    "path": "files/spaceship.mov"
   }
 }
