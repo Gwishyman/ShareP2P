@@ -2,10 +2,10 @@
   "hello": {
     "path": "files/hello.txt"
   },
-  "spaceship": {
+  "spaceship.mov": {
     "path": "files/spaceship.mov"
   },
-  "guahh": {
+  "guahh.png": {
     "path": "files/478391.png"
   }
 }
